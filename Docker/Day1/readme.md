@@ -8,4 +8,4 @@ Detalhando alguns passos que vi na primeira aula;
 - Executando um container em modo daemon.
 - Docker container run -it = Interatividade com Terminal
 - Ctrl + p & q sai do container sem terminar o container.
-
+- Docker container attach vai conectar ao container em execução.
