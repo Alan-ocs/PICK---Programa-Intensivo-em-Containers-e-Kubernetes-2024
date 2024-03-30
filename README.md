@@ -2,6 +2,6 @@
 
 Indicação de Livros;
 - Docker
-    https://github.com/badtuxx/DescomplicandoDocker
-    https://github.com/gomex/docker-para-desenvolvedores?tab=readme-ov-file
-    https://github.com/caiodelgadonew/docker
+    - https://github.com/badtuxx/DescomplicandoDocker
+    - https://github.com/gomex/docker-para-desenvolvedores?tab=readme-ov-file
+    - https://github.com/caiodelgadonew/docker
