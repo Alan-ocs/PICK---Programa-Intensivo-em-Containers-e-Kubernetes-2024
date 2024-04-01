@@ -3,7 +3,9 @@
 - O que são imagens de container?
 - Fazendo um Dockerfile e usando FROM, RUN, EXPOSE e CMD usando um exemplo do nginx.
 - Docker image build -t meu-container:1.0 .
-- 
+- Uso da opção COPY no Dockerfile, WORKDIR e ENV.
+- Uso do LABEL como rotulo, ENTRYPOINT é o principal processo do container.
+- Parei no video Day2 - Adicionando Healtcheck.
 
 
 ### Conheça mais:
