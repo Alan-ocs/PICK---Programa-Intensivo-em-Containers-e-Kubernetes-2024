@@ -1,4 +1,4 @@
-# Descomplicando o Docker com Jefersson Badtuxx
+# Descomplicando o Docker com Jefersson Badtuxx - DAY 1
 
 No primeiro dia do "Descomplicando o Docker", uma masterclass com Jefersson [Badtuxx](https://github.com/badtuxx) by LinuxTips, mergulhamos nos fundamentos do Docker de uma forma gostosinha de ai meu deus!
 
@@ -27,4 +27,4 @@ No primeiro dia do "Descomplicando o Docker", uma masterclass com Jefersson [Bad
 
 ### Conheça mais:
 
-Jefersson Badtuxx compartilha conhecimento valioso em seu canal do [YouTube](https://www.youtube.com/@LinuxTips) e na [Twitch](https://www.twitch.tv/linuxtips/videos). Todo o conteúdo do "Descomplicando o Docker" está disponível no YouTube, e também pode encontrar seu livro gratuitamente no [Github](https://github.com/badtuxx/DescomplicandoDocker). Se você está interessado em Docker, Linux, Kubernetes, DevOps, não deixe de conferir e seguir seus canais. Só #Vaiiii!
+Jefersson [Badtuxx](https://github.com/badtuxx) compartilha conhecimento valioso em seu canal do [YouTube](https://www.youtube.com/@LinuxTips) e na [Twitch](https://www.twitch.tv/linuxtips/videos). Todo o conteúdo do "Descomplicando o Docker" está disponível no YouTube, e também pode encontrar seu livro gratuitamente no [Github](https://github.com/badtuxx/DescomplicandoDocker). Se você está interessado em Docker, Linux, Kubernetes, DevOps, não deixe de conferir e seguir seus canais. Só #Vaiiii!
