@@ -5,7 +5,9 @@
 - Docker image build -t meu-container:1.0 .
 - Uso da opção COPY no Dockerfile, WORKDIR e ENV.
 - Uso do LABEL como rotulo, ENTRYPOINT é o principal processo do container.
-- Parei no video Day2 - Adicionando Healtcheck.
+- Adicionando Healtcheck.
+- Desafio de criar uma imagem de container com o Debian e subir o Nginx com o Giropos-Senhas.
+- Iniciando com o MultiStage.
 
 
 ### Conheça mais:
